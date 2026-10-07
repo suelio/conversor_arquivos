@@ -1,0 +1,6 @@
+ID_Transacao;Filial;Faturamento;Meta_Atingida
+TRX-101;Sao Paulo;12500.5;True
+TRX-102;Rio de Janeiro;8900.2;False
+TRX-103;Curitiba;15400.0;True
+TRX-104;Belo Horizonte;6200.75;False
+TRX-105;Porto Alegre;11000.0;True

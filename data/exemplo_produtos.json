@@ -1,0 +1,20 @@
+[
+  {
+    "SKU": "PRD-01",
+    "Produto": "Monitor 27 Polegadas",
+    "Preco": 1299.9,
+    "Estoque": 45
+  },
+  {
+    "SKU": "PRD-02",
+    "Produto": "Teclado Mecanico",
+    "Preco": 350.0,
+    "Estoque": 120
+  },
+  {
+    "SKU": "PRD-03",
+    "Produto": "Mouse Sem Fio",
+    "Preco": 180.5,
+    "Estoque": 80
+  }
+]
